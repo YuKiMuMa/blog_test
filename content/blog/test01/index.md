@@ -1,7 +1,7 @@
 ---
 title: TEST01
 date: "2021-05-01"
-description: "Hello World"
+description: "My name is YuKiMuMa!?"
 ---
 
 This is my first post on my new fake blog! How exciting!
